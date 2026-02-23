@@ -291,14 +291,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 📧 Contact
-
-**Project Maintainer** - [@yourusername](https://github.com/yourusername)
-
-**Project Link** - [https://github.com/yourusername/ai-chooser](https://github.com/yourusername/ai-chooser)
-
----
-
 <div align="center">
 
 ### ⭐ Star this repo if you find it helpful!
